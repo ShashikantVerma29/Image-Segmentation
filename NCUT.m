@@ -1,3 +1,5 @@
+%% SHASHIKANT VERMA
+
 I= imread('cameraman.tif');
 I= imresize(I,0.3);
 [row, col, dim]= size(I);
